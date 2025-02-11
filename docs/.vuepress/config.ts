@@ -3,7 +3,7 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/MyBlog',
+  base: '/MyBlog/',
   lang: 'zh-CN',
   locales: {
     '/': {
